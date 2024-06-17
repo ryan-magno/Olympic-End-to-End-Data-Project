@@ -1,0 +1,14 @@
+{
+	"name": "adf-deproj-01",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34f2b9b8-cc95-48b0-8cb2-c201c531ce5c",
+		"tenantId": "6d18a8a5-d4bb-491b-993a-b3550f94221f"
+	}
+}
