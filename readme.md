@@ -4,7 +4,7 @@ This Olympic Data Analytics project showcases my applied knowledge from the Azur
 
 # Project Architecture
 
-![Project Architecture](.readme/final%20architecture.png)
+![Project Architecture](readme/final%20architecture.png)
 
 The project utilizes an extract, transform, and load (ETL) model for processing the Tokyo Olympic 2021 dataset.
 
@@ -22,7 +22,7 @@ Source: [GitHub - Tokyo Olympic Azure Data Engineering Project](https://github.c
 
 ## Resource Group
 
-![Resource Group](.readme/Screenshot%202024-06-17%20192126.png)
+![Resource Group](readme/Screenshot%202024-06-17%20192126.png)
 
 ### Resources
 
