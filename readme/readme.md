@@ -4,7 +4,7 @@ This Olympic Data Analytics project showcases my applied knowledge from the Azur
 
 # Project Architecture
 
-![Project Architecture](https://prod-files-secure.s3.us-west-2.amazonaws.com/581864de-d26b-4d58-8208-4a0f112c12b2/d472672d-9e25-4df6-8436-f37e9cc195f1/final_architecture.png)
+![Project Architecture](.readme/final%20architecture.png)
 
 The project utilizes an extract, transform, and load (ETL) model for processing the Tokyo Olympic 2021 dataset.
 
@@ -22,7 +22,7 @@ Source: [GitHub - Tokyo Olympic Azure Data Engineering Project](https://github.c
 
 ## Resource Group
 
-![Resource Group](https://prod-files-secure.s3.us-west-2.amazonaws.com/581864de-d26b-4d58-8208-4a0f112c12b2/b201df58-6de5-4429-bf94-536d0f18f3a7/Untitled.png)
+![Resource Group](.readme/Screenshot%202024-06-17%20192126.png)
 
 ### Resources
 
@@ -31,7 +31,7 @@ Source: [GitHub - Tokyo Olympic Azure Data Engineering Project](https://github.c
     - Enable hierarchical namespace
     - Containers:
         
-        ![Storage Containers](https://prod-files-secure.s3.us-west-2.amazonaws.com/581864de-d26b-4d58-8208-4a0f112c12b2/86c5ec3f-efb2-4a54-905c-36f29a3ed8f3/Untitled.png)
+        ![Storage Containers](./readme/Screenshot%202024-06-17%20192253.png)
         
         - `raw-data`
         - `transformed-data`
