@@ -1,6 +1,6 @@
 # Project Overview
 
-This Olympic Data Analytics project showcases my applied knowledge from the Azure Data Fundamentals certificate. It provided me with introductory hands-on experience with Azure services, specifically in data engineering and analytics. This project demonstrates the capabilities of various Azure services in an end-to-end data engineering workflow using the 2021 Tokyo Olympics dataset.
+This Olympic Data Analytics project showcases my applied knowledge from the Azure Data Fundamentals certification exam. It provided me with introductory hands-on experience with Azure services, specifically in data engineering and analytics. This project demonstrates the capabilities of various Azure services in an end-to-end data engineering workflow using the 2021 Tokyo Olympics dataset.
 
 # Project Architecture
 
